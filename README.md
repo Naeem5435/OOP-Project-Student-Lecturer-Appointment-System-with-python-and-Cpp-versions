@@ -18,11 +18,12 @@ Schedule, update, and remove appointments between students and lecturers.
 
 File Structure:
 - Student.csv:
-             Stores student data.
+  Stores student data.
 - Lecturer.csv:
-              Stores lecturer data.
+  Stores lecturer data.
 - Appointment.csv:
-              Records appointment details.
+  Records appointment details.
+  
 How to Use:
 1. Run the Program:
 Execute the Python file (main.py) in a Python environment.
@@ -78,6 +79,7 @@ Compact methods in Student and Lecturer classes optimizing inheritance usage.
 Refined functions (count_file, read_from_file, write_to_file) for better data management.
 - Enhanced Error Handling: 
 Detailed and informative error messages for clearer user feedback.
+
 Usage:
 As this code is in C++, it might require a different development environment and compilation steps compared to Python.
 Specific instructions regarding compiling and executing this code in a C++ environment would be included with the source code.
