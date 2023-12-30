@@ -5,9 +5,11 @@ This documentation provides an overview of two implementations for managing stud
 the other in C++.
 
 Python Code Implementation:
+
 Overview:
 This Python-based system manages student-lecturer appointments using CSV files for data storage. It utilizes the tkinter library to create
 a graphical user interface (GUI) to facilitate managing students, lecturers, and appointment records.
+
 Features:
 - Student Management:
 Add, remove, and update student details such as number, name, department, and contact information.
@@ -29,11 +31,12 @@ How to Use:
 Execute the Python file (main.py) in a Python environment.
 UserName:admin   Password:123
 
-3. Menu Options:
+2. Menu Options:
  The GUI offers various options for managing students, lecturers, and appointments.
-4. Adding/Removing/Updating:
+3. Adding/Removing/Updating:
 Use respective buttons to modify data.
-5. Data Storage:
+
+4. Data Storage:
  Data is stored in CSV files (Student.csv, Lecturer.csv, Appointment.csv).
 
 Functionality:
@@ -61,7 +64,6 @@ Acknowledging contributions from developers:
  Acknowledging pivotal role and contributions in improving the system's performance and reliability.
 - Momina Nadeem:
 Recognizing valuable contributions that strengthened the system's capabilities and usability.
-
 
 
 **C++ Code Implementation:**
