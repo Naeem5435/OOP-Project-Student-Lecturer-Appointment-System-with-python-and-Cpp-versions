@@ -57,7 +57,7 @@ Usage:
 - Run the Program:
 Execute the Python script to launch the GUI.
 
-** Acknowledgments:**
+ Acknowledgments:
 
 Acknowledging contributions from developers:
 - Naeem Ullah:
